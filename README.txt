@@ -4,6 +4,7 @@ Use single quotes instead of double quotes.
 When concatenation is needed, use double quotes.
 Extract future-changeable values to constants.
 Follow PSR coding standards for PHP development.
+Each PHP file must end with a single empty line.
 
 Prefer composition over inheritance.
 Apply the Single Responsibility Principle - each class should have one reason to change.
