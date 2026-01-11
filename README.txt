@@ -11,6 +11,7 @@ Prefer composition over inheritance.
 Apply the Single Responsibility Principle - each class should have one reason to change.
 Leverage dependency injection for better testability and decoupling.
 Implement proper input validation and sanitization to prevent security vulnerabilities.
+Maintain consistency with existing codebase architecture and coding patterns when writing new code.
 
 Variable names should consist of maximum two words, preferably one.
 Immutable objects must be favored over mutable ones.
